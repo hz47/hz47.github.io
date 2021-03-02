@@ -1,4 +1,8 @@
 {
+  "home.email": "email",
+  "home.email_message": "your message..",
+  "home.email_sent": "message sent! thank you",
+  "home.submit": "submit",
   "home.subtitle_passion": "Passionate about Tech, Mountains and Running",
   "home.subtitle_contact1": "If you would like to contact me, please send me a",
   "home.subtitle_contact2": "message (English / German)",
